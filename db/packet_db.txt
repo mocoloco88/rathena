@@ -41,8 +41,8 @@
 // NOTE: Keys won't be reloaded, initialized on first load only.
 //
 //packet_db_ver: 46
-packet_db_ver: default
-packet_keys_use: default
+packet_db_ver: 40
+packet_keys_use: 0x434115DE 0x34A10FE9 0x6791428E
 
 packet_ver: 5
 0x0064,55
